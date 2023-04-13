@@ -11,7 +11,7 @@ To use this application, go to the url "https://pjt3232.github.io/Weather-Dashbo
 
 ![Screenshot of the deployed application](./assets/images/Weather-Dashboard-Screenshot.png)
 
-To use this application just type in a city name in the search bar that says "Enter a city" and click the search button. This will add the city to your search history which has a maximum amount of 10 cities at a time and then pull up the weather for the current day and the 5 day forecast. The current day and 5 day forecast shows an icon that generally describes the weather conditions, the temperature in ºF, the humidity in %, and the wind speed in MPH. The weather for the 5 day forecast will show the weather at this current time on the that specific day.
+To use this application just type in a city name in the search bar that says "Enter a city" and click the search button. This will add the city to your search history which has a maximum amount of 10 cities at a time and then pull up the weather for the current day and the 5 day forecast. The current day and 5 day forecast shows an icon that generally describes the weather conditions, the temperature in ºF, the humidity in %, and the wind speed in MPH. The weather for the 5 day forecast will show the weather at this current time on the that specific day. Another feature is you can select a city from the search history list and the weather and forecast for that city will appear.
 
 ## Credits
 I did not use a third party starter code for this project or have any collaborators.
