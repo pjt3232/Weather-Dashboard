@@ -1,7 +1,7 @@
 # Weather-Dashboard
 
 ## Description
-My motivation for this project was to better my skills to hopefully prepare myself for a job in the field in the future. I built this project with the intention of building somethign using server side APIs. This application solves the need of knowing the weather and 5 day forecast in the city you are in or anywhere else. I learned how to use fetch functions for URLs, I learned how to manipulate a server side API URL to get various information, and I learned how to create a search history that is shown on the page and stored in local storage.
+My motivation for this project was to better my skills to hopefully prepare myself for a job in the field in the upcoming future. I built this project with the intention of building a project using server side APIs. This application solves the need of knowing the weather and 5 day forecast in the city you are in or anywhere else. I learned how to use fetch functions for APIs, I learned how to manipulate a server side API URL to get various information, and I learned how to create a search history that is shown on the page and stored in local storage.
 
 ## Installation
 To install this application go to the url "https://pjt3232.github.io/Weather-Dashboard/" on the browser of your choice.
